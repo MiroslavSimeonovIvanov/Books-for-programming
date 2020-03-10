@@ -1,0 +1,11 @@
+console.log("      oooo      oooo      ");
+console.log("   ooooooooo  ooooooooo   ");
+console.log(" oooooooooooooooooooooooo ");
+console.log(" oooooooooooooooooooooooo ");
+console.log(" oooooooooooooooooooooooo ");
+console.log("  oooooooooooooooooooooo  ");
+console.log("   oooooooooooooooooooo   ");
+console.log("     oooooooooooooooo     ");
+console.log("       oooooooooooo       ");
+console.log("         oooooooo         ");
+console.log("           oooo           ");
