@@ -1,0 +1,24 @@
+var companyName = window.prompt("Please enter company name", "");
+var companyAddress = window.prompt("Please enter company address", "");
+var companyPhoneNumber = window.prompt("Enter company phone number", "");
+var companyFaxNumber = window.prompt("Please enter company fax number", "");
+var companyWebSite = window.prompt("Enter company web site", "");
+var companyManager = window.prompt("Please enter company manager", "");
+var managerFirstName = window.prompt("Enter manager first name", "");
+var managerLastName = window.prompt("Please enter manager last name", "");
+var managerAge = window.prompt("Please enter manager age", "");
+var managerPhoneNumber = window.prompt("Enter manager phone number", "");
+
+console.log("-------- Company --------");
+console.log("Name: " + companyName);
+console.log("Address: " + companyAddress);
+console.log("Phone number: " + companyPhoneNumber);
+console.log("Fax number: " + companyFaxNumber);
+console.log("Website: " + companyWebSite);
+console.log("Manager: " + companyManager);
+console.log("");
+console.log("-------- Manager --------");
+console.log("First name: " + managerFirstName);
+console.log("Last name: " + managerLastName);
+console.log("Age: " + managerAge);
+console.log("Phone number: " + managerPhoneNumber);
